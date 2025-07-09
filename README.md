@@ -106,6 +106,12 @@ deceptive-alignment-evaluator/
 - Add reward modeling loop (simulate RL reward adjustment)
 - Fine-grained deception categories (white lies, omission, strategic ambiguity)
 
+## References
+
+[1] Ji, Jiaming; Chen, Wenqi; Wang, Kaile, et al. (2025).  
+*Mitigating Deceptive Alignment via Self-Monitoring*.  
+[arXiv:2505.18807](https://arxiv.org/abs/2505.18807)
+
 
 ## License
 
